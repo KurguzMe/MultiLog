@@ -1,4 +1,4 @@
-# 👁️ ExpView
+# 📜 MultiLog
 **MultiLog** is a mod that automatically creates separate log files for each player.
 
 **Useful for players who frequently change nicknames and want to keep their logs separated.**
